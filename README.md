@@ -14,6 +14,7 @@ ________________________________________________________________________________
 * [Establish Foothold](#establish-foothold)
 * [Escalate Privileges](#escalate-privileges)
 * [Data Exfiltration](#data-exfiltration)
+* [DDL Architecture](#dddl-architecture)
 * [References](#references)
 
 ## Reconnaissance
@@ -300,3 +301,4 @@ https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exerc
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+

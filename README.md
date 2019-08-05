@@ -14,7 +14,7 @@ ________________________________________________________________________________
 * [Establish Foothold](#establish-foothold)
 * [Escalate Privileges](#escalate-privileges)
 * [Data Exfiltration](#data-exfiltration)
-* [DDL Architecture](#dddl-architecture)
+* [DLl Architecture](#DLL-Architecture)
 * [References](#references)
 
 ## Reconnaissance
@@ -253,7 +253,7 @@ This DLL contains higher-level networking functions.
 ## X86 Architecture
 The x86 architecture is an instruction set architecture. It is a set of computer processors that were developed by the Intel Corporation. x86 architecture defines how a processor handles and executes different instructions on a computer by setting standards on application execution.
 
-* **EAX:**Extended Accumulator Register
+* **EAX:** Extended Accumulator Register
 * **EBX:** Extended Base Register
 * **ECD:** Extended Counter Register
 * **EDX:** Extended Data Register 
@@ -301,4 +301,3 @@ https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exerc
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-

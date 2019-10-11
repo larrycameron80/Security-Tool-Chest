@@ -250,16 +250,9 @@ Log aggregation is a valuable tool, but it isn't normally a good tool for time-s
 * **OverTheWire** - Semtex · OverTheWire - Vortex · OverTheWire - Drifter · pwnable.kr - Provide various pwn challenges regarding system security · Exploit Exercises - Nebula · SmashTheStack
 
 ## Reverse Engineering
-* **Reversing.kr** This site tests your ability to Cracking & Reverse Code Engineering · CodeEngn - (Korean) · simples.kr - (Korean) · 
-* **Crackmes.de** The world first and largest community website for crackmes and reversemes.
-
-* **Hack This Site** a free, safe and legal training ground for hackers to test and expand their hacking skills · Hack The Box - a free site to perform pentesting in a variety of different systems. · Webhacking.kr · 0xf.at - a website without logins or ads where you can solve password-riddles (so called hackits).
-
-## CTF
-
-* **DEF CON** CSAW CTF · hack.lu CTF · Pliad CTF · RuCTFe · Ghost in the Shellcode · PHD CTF · SECUINSIDE CTF · Codegate CTF · Boston Key Party CTF · ZeroDays CTF · Insomni’hack · Pico CTF · prompt(1) to win - XSS Challeges
-
-* **Hack+** An Intelligent network of bots that fetch the latest InfoSec content. · CTFtime.org - All about CTF (Capture The Flag) · WeChall · CTF archives (shell-storm) · Rookit Arsenal - OS RE and rootkit development · Pentest Cheat Sheets - Collection of cheat sheets useful for pentesting · Movies For Hackers - A curated list of movies every hacker & cyberpunk must watch.
+* **Reversing.kr** This site tests your ability to Cracking & Reverse Code Engineering· http://reversing.kr/
+* **Crackmes.de** The world first and largest community website for crackmes and reversemes. http://crackmes.de/
+* **Hack This Site** A free, safe and legal training ground for hackers to test and expand their hacking skills. https://www.hackthissite.org/
 
 ## DLL Architecture
 Dynamic linking is a mechanism that links applications to libraries at run time. The libraries remain in their own files and are not copied into the executable files of the applications. DLLs link to an application when the application is run, rather than when it is created.

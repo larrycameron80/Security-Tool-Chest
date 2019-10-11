@@ -238,23 +238,24 @@ Log aggregation is a valuable tool, but it isn't normally a good tool for time-s
 * **Red Team Telemetry** A collection of scripts and configurations to enable centralized logging of red team infrastructure. https://github.com/ztgrace/red_team_telemetry
 * **Elastic for Red Teaming** Repository of resources for configuring a Red Team SIEM using Elastic. https://github.com/SecurityRiskAdvisors/RedTeamSIEM
 
-### Forensics
+## Forensics
 * **Autopsy** A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools · sleuthkit - A library and collection of command-line digital forensics tools · EnCase - The shared technology within a suite of digital investigations products by Guidance Software https://www.sleuthkit.org/autopsy/
 
-### Cryptography
+## Cryptography
 
 * **xortool** A tool to analyze multi-byte XOR cipher · John the Ripper - A fast password cracker · Aircrack - Aircrack is 802.11 WEP and WPA-PSK keys cracking program. https://github.com/hellman/xortool
 
-### Wargame
+## Wargame
 
 * **OverTheWire** - Semtex · OverTheWire - Vortex · OverTheWire - Drifter · pwnable.kr - Provide various pwn challenges regarding system security · Exploit Exercises - Nebula · SmashTheStack
 
-### Reverse Engineering
-* **Reversing.kr** This site tests your ability to Cracking & Reverse Code Engineering · CodeEngn - (Korean) · simples.kr - (Korean) · * **Crackmes.de** The world first and largest community website for crackmes and reversemes.
+## Reverse Engineering
+* **Reversing.kr** This site tests your ability to Cracking & Reverse Code Engineering · CodeEngn - (Korean) · simples.kr - (Korean) · 
+* **Crackmes.de** The world first and largest community website for crackmes and reversemes.
 
-* **Hack This Site** a free, safe and legal training ground for hackers to test and expand their hacking skills · Hack The Box - a free site to perform pentesting in a variety of different systems. · Webhacking.kr · 0xf.at - a website without logins or ads where you can solve password-riddles (so called hackits). · Gruyere · Others
+* **Hack This Site** a free, safe and legal training ground for hackers to test and expand their hacking skills · Hack The Box - a free site to perform pentesting in a variety of different systems. · Webhacking.kr · 0xf.at - a website without logins or ads where you can solve password-riddles (so called hackits).
 
-### CTF
+## CTF
 
 * **DEF CON** CSAW CTF · hack.lu CTF · Pliad CTF · RuCTFe · Ghost in the Shellcode · PHD CTF · SECUINSIDE CTF · Codegate CTF · Boston Key Party CTF · ZeroDays CTF · Insomni’hack · Pico CTF · prompt(1) to win - XSS Challeges
 

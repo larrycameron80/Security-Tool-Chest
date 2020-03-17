@@ -271,15 +271,81 @@ These are networking DLLs. A program that accesses either of these most likely c
 ### Wininet.dll
 This DLL contains higher-level networking functions. 
 
-## Best Tools
-* **Dissasembler** – IDA Pro
-* **Debugger** – OllyDbg, WinDbg
-* **System Monitor** – Process Monitor, RegShot. Process Explorer
-* **Network Monitor** – TCP View, Wireshark
-* **Packer Identifier** – PEID
-* **Unpacking Tools** – Qunpack. GUNPacker
-* **Binary Analysis Tools** – PE Explorer, Malcode Analysts Pack
-* **Code Analysis Tools** – LordPE, ImpRec
+## Malware Corpora
+Malware samples collected for analysis.
+
+* **Clean MX** - Realtime database of malware and malicious domains.
+* **Contagio** - A collection of recent malware samples and analyses.
+* **Exploit Database** - Exploit and shellcode samples.
+* **Infosec - CERT-PA** - Malware samples collection and analysis.
+* **InQuest Labs** - Evergrowing searchable corpus of malicious Microsoft documents.
+* **Javascript Mallware Collection** - Collection of almost 40.000 javascript malware samples
+* **Malpedia** - A resource providing rapid identification and actionable context for malware investigations.
+* **Malshare** - Large repository of malware actively scrapped from malicious sites.
+* **Open Malware Project** - Sample information and downloads. Formerly Offensive Computing.
+* **Ragpicker** - Plugin based malware crawler with pre-analysis and reporting functionalities
+* **theZoo** - Live malware samples for analysts.
+* **Tracker h3x** - Agregator for malware corpus tracker and malicious download sites.
+* **vduddu malware repo** - Collection of various malware files and source code.
+* **VirusBay** - Community-Based malware repository and social network.
+* **ViruSign** - Malware database that detected by many anti malware programs except ClamAV.
+* **VirusShare** - Malware repository, registration required.
+* **VX Vault** - Active collection of malware samples.
+* **Zeltser's Sources** - A list of malware sample sources put together by Lenny Zeltser.
+* **Zeus Source Code** - Source for the Zeus trojan leaked in 2011.
+
+## Detection and Classification
+Antivirus and other malware identification tools
+
+* **AnalyzePE** - Wrapper for a variety of tools for reporting on Windows PE files.
+* **Assemblyline** - A scalable distributed file analysis framework.
+* **BinaryAlert** - An open source, serverless AWS pipeline that scans and alerts on uploaded files based on a set of YARA rules.
+* **chkrootkit** - Local Linux rootkit detection.
+* **ClamAV** - Open source antivirus engine.
+* **Detect It Easy(DiE)** - A program for determining types of files.
+* **Exeinfo PE** - Packer, compressor detector, unpack info, internal exe tools.
+* **ExifTool** - Read, write and edit file metadata.
+* **File Scanning Framework** - Modular, recursive file scanning solution.
+* **Generic File Parser** - A Single Library Parser to extract meta information,static analysis and detect macros within the files.
+* **hashdeep** - Compute digest hashes with a variety of algorithms.
+* **HashCheck** - Windows shell extension to compute hashes with a variety of algorithms.
+* **Loki** - Host based scanner for IOCs.
+* **Malfunction** - Catalog and compare malware at a function level.
+* **Manalyze** - Static analyzer for PE executables.
+* **MASTIFF** - Static analysis framework.
+* **MultiScanner** - Modular file scanning/analysis framework
+* **Nauz File Detector(NFD)** - Linker/Compiler/Tool detector for Windows, Linux and MacOS.
+* **nsrllookup** - A tool for looking up hashes in NIST's National Software Reference Library database.
+* **packerid** - A cross-platform Python alternative to PEiD.
+* **PE-bear** - Reversing tool for PE files.
+* **PEframe** - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
+* **PEV** - A multiplatform toolkit to work with PE files, providing feature-rich tools for proper analysis of suspicious binaries.
+* **PortEx** - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
+* **Quark-Engine** - An Obfuscation-Neglect Android Malware Scoring System
+* **Rootkit Hunter** - Detect Linux rootkits.
+* **ssdeep** - Compute fuzzy hashes.
+* **totalhash.py** - Python script for easy searching of the TotalHash.cymru.com database.
+* **TrID** - File identifier.
+* **YARA** - Pattern matching tool for analysts.
+* **Yara rules generator** - Generate yara rules based on a set of malware samples. Also contains a good strings DB to avoid false positives.
+* **Yara Finder** - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
+
+##Memory Forensics
+Tools for dissecting malware in memory images or running systems.
+
+* **BlackLight** - Windows/MacOS forensics client supporting hiberfil, pagefile, raw memory analysis.
+* **DAMM** - Differential Analysis of Malware in Memory, built on Volatility.
+* **evolve** - Web interface for the Volatility Memory Forensics Framework.
+* **FindAES** - Find AES encryption keys in memory.
+* **inVtero.net** - High speed memory analysis framework developed in .NET supports all Windows x64, includes code integrity and write support.
+* **Muninn** - A script to automate portions of analysis using Volatility, and create a readable report.
+* **Rekall** - Memory analysis framework, forked from Volatility in 2013.
+* **TotalRecall** - Script based on Volatility for automating various malware analysis tasks.
+* **VolDiff** - Run Volatility on memory images before and after malware execution, and report changes.
+* **Volatility** - Advanced memory forensics framework.
+* **VolUtility** - Web Interface for Volatility Memory Analysis framework.
+* **WDBGARK** - WinDBG Anti-RootKit Extension.
+* **WinDbg** - Live memory inspection and kernel debugging for Windows systems.
 
 ## X86 Architecture
 The x86 architecture is an instruction set architecture. It is a set of computer processors that were developed by the Intel Corporation. x86 architecture defines how a processor handles and executes different instructions on a computer by setting standards on application execution.

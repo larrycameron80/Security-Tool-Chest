@@ -330,7 +330,7 @@ Antivirus and other malware identification tools
 * **Yara rules generator** - Generate yara rules based on a set of malware samples. Also contains a good strings DB to avoid false positives.
 * **Yara Finder** - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
 
-##Memory Forensics
+## Memory Forensics
 Tools for dissecting malware in memory images or running systems.
 
 * **BlackLight** - Windows/MacOS forensics client supporting hiberfil, pagefile, raw memory analysis.

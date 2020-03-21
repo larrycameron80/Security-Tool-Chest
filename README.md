@@ -15,6 +15,8 @@ ________________________________________________________________________________
 * [Escalate Privileges](#escalate-privileges)
 * [Data Exfiltration](#data-exfiltration)
 * [DLL Architecture](#DLL-Architecture)
+* [Malware Corpora](#Malware Corpora)
+* [Memory Forensics](#Memory Forensics)
 * [References](#references)
 
 ## Reconnaissance
